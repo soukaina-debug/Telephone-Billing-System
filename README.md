@@ -1,0 +1,2 @@
+# Telephone-Billing-System
+Telephone Billing System in Java is a simple software application developed to improve the efficiency in telephone billing procedures in telecommunication service providers and other suitable organizations. With this system, user billing details can be easily calculated and managed. Overall, a computerized telephone billing system increases the speed of the billing procedure, bill calculation and final report generation.
